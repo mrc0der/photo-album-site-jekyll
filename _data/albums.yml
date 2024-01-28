@@ -1,0 +1,8 @@
+albums:
+  - title: "Summer Vacation 2024"
+    client: "John Doe"
+    s3_path: "s3-bucket-name/clients/john-doe/summer-vacation-2024"
+
+  - title: "Winter Holiday 2024"
+    client: "Bob Smith"
+    s3_path: "s3-bucket-name/clients/jane-smith/winter-holiday-2024"
